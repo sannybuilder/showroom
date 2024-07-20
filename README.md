@@ -1,5 +1,6 @@
 # Sanny Builder 4 Scripts
 
+Join Sanny Builder discord at: https://sannybuilder.com/discord
 
 ### Cam Controls by Benjamin Strutui
 
