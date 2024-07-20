@@ -22,4 +22,4 @@ Source code: https://discord.com/channels/911487285990674473/914958450667175977/
 
 ### Rotate the player where the camera is looking by Vital
 
-https://discord.com/channels/911487285990674473/914958450667175977/1190335422656688280
+Source code: https://discord.com/channels/911487285990674473/914958450667175977/1190335422656688280
