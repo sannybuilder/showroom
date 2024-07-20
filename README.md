@@ -29,3 +29,9 @@ Source code: https://discord.com/channels/911487285990674473/914958450667175977/
 ![image](https://github.com/user-attachments/assets/966b7b60-9a58-4f74-a883-8699e788e378)
 
 https://discord.com/channels/911487285990674473/1042943240787218462/1260286725188485251
+
+### Locating Car Dummies (Function) by Benjamin Strutui and Seemann
+
+<img src="https://github.com/user-attachments/assets/f1322244-6eb4-49c4-856e-a44da7329cec" width="400">
+
+Source code: https://discord.com/channels/911487285990674473/1110711581223948348/1232456289884442745
