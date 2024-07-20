@@ -23,3 +23,9 @@ Source code: https://discord.com/channels/911487285990674473/914958450667175977/
 ### Rotate the player where the camera is looking by Vital
 
 Source code: https://discord.com/channels/911487285990674473/914958450667175977/1190335422656688280
+
+### Pools Info by Miran
+
+![image](https://github.com/user-attachments/assets/966b7b60-9a58-4f74-a883-8699e788e378)
+
+https://discord.com/channels/911487285990674473/1042943240787218462/1260286725188485251
