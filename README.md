@@ -35,3 +35,11 @@ https://discord.com/channels/911487285990674473/1042943240787218462/126028672518
 <img src="https://github.com/user-attachments/assets/f1322244-6eb4-49c4-856e-a44da7329cec" width="400">
 
 Source code: https://discord.com/channels/911487285990674473/1110711581223948348/1232456289884442745
+
+## Dynamic Car Plates by vladvo and Seemann
+
+
+https://github.com/user-attachments/assets/b8f84968-0b6d-4d97-8758-f86e547a2594
+
+
+Source code: https://discord.com/channels/911487285990674473/1110711581223948348/1299161963800297522
